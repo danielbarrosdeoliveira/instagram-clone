@@ -139,13 +139,13 @@ body {
 
 /* MEDIA QUERIES */
 
-@media (min-width: 1024.1px) {
+@media (min-width: 1440px) {
 	.instagram-continue {
-		width: 30%;
+		width: 40%;
 	}
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 960px) {
 	.instagram-wrapper {
 		width: 90%;
 	}
